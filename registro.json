@@ -1,1 +1,16 @@
-{"Johana2": "Joha31", "Johana": "Joha31", "Juanes": "Juanes1227"}
+{
+    "Joha_Esp": {
+        "Nombre": "Kelly Johana",
+        "Apellidos": "Espa\u00f1a Paternina",
+        "Email": "espanakelly30@gmail.com",
+        "User": "Joha_Esp",
+        "Password": "123456"
+    },
+    "juan1227": {
+        "Nombre": "juan",
+        "Apellidos": "alvarez",
+        "Email": "jun@gmail.com",
+        "User": "juan1227",
+        "Password": "56bhu"
+    }
+}
